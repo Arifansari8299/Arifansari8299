@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Arif
 
-<!--
-**Arifansari8299/Arifansari8299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with experience in:
 
-Here are some ideas to get you started:
+- ⚡ Angular, React, JavaScript, TypeScript
+- 🛠️ Node.js, Express.js, MongoDB
+- 🎨 HTML, CSS, Tailwind CSS, Bootstrap
+- 📦 Git, GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Projects
+
+- 🚗 [Car Rental App - Angular + Tailwind](#)
+- 🛍️ [E-commerce App - Angular](#)
+- ☁️ [React Weather App](#)
+- 📅 [Activity Booking Backend - Node.js + MongoDB](#)
+
+## 📫 Contact Me
+
+- 📧 Email: arif@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/arif-dev](#)
