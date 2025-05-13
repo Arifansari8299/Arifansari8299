@@ -16,5 +16,5 @@ I'm a passionate Full Stack Developer with experience in:
 
 ## 📫 Contact Me
 
-- 📧 Email: arif@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/arif-dev](#)
+- 📧 Email: arifkmclu@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/arif-ansari-4a2540209/
