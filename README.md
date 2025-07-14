@@ -58,7 +58,7 @@
 
 ### 📊 GitHub Stats
 
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifansari8299&show_icons=true&theme=tokyonight)
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arifansari8299&show_icons=true&theme=tokyonight)
 
 ---
 
