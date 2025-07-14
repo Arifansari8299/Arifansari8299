@@ -44,7 +44,7 @@
 
 - 🎪 [VijayVibe – Business Web App (Angular + Node.js + Express.js)](https://vijayvibe-web.netlify.app/)  
   A complete web application built for a friend's tent, lighting, stage, and DJ business. Includes admin and customer-facing modules.  
-  👉 [View Live](https://vijayvibe-web.netlify.app/) | 🔗 [Source Code](https://github.com/your-username/vijayvibe) *(replace with actual link)*
+  👉 [View Live](https://vijayvibe-web.netlify.app/) | 🔗 [Source Code](https://github.com/your-username/vijayvibe) 
 
 ---
 
