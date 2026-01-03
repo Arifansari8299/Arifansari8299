@@ -7,9 +7,9 @@
 ### 💻 Tech Stack
 
 - **Frontend:** Angular, React, JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js, MongoDB, MYSQL, PostgreSQL  
+- **Backend:** Node.js, Express.js, Next.js, MongoDB, MYSQL, PostgreSQL  
 - **UI/UX:** HTML, CSS, Tailwind CSS, Bootstrap  
-- **Tools & Others:** Git, GitHub, REST APIs
+- **Tools & Others:** Git, GitHub, REST APIs, postman, aws
 
 ---
 
