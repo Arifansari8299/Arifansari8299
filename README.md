@@ -36,12 +36,6 @@
 - 🛍️ [E-commerce App (Angular)](#)  
   Full-featured e-commerce project with product listing, cart, and reusable components built using Angular.
 
-- 🌤️ [Weather App (React)](#)  
-  A React-based weather application that fetches real-time weather data using OpenWeatherMap API.
-
-- 📅 [Activity Booking Backend (Node.js + MongoDB)](#)  
-  RESTful API built with Node.js, Express.js, and MongoDB to manage bookings for various activities.
-
 - 🎪 [VijayVibe – Business Web App (Angular + Node.js + Express.js)](https://vijayvibe-web.netlify.app/)  
   A complete web application built for a friend's tent, lighting, stage, and DJ business. Includes admin and customer-facing modules.  
   👉 [View Live](https://vijayvibe-web.netlify.app/) | 🔗 [Source Code](https://github.com/your-username/vijayvibe) 
