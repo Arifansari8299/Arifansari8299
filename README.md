@@ -75,12 +75,6 @@ I love solving real-world problems with clean, maintainable code and always-impr
 
 ---
 
-### 🚗 Car Rental App · `Angular · TailwindCSS`
-> Modern UI-based car rental frontend with Angular standalone components
-
-### 🛍️ E-Commerce App · `Angular`
-> Full-featured e-commerce with product listing, cart, and reusable component architecture
-
 ---
 
 ## 🛠️ Tech Stack
