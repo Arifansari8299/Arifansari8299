@@ -124,8 +124,6 @@ I love solving real-world problems with clean, maintainable code and always-impr
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arifansari8299&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arifansari8299&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arifansari8299&theme=tokyonight)
