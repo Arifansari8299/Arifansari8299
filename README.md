@@ -75,8 +75,6 @@ I love solving real-world problems with clean, maintainable code and always-impr
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
